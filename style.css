@@ -1,0 +1,21 @@
+.bg-img {
+    background: url('./imagenes/heroImage.jpeg');
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+}
+
+.heroe-text {
+    text-align: center;
+    color: white;
+    top: 50%;
+    position: absolute;
+}
+
+.heroe-title {
+    font-size: 4.5rem;
+}
+
+.heroe-descrip {
+    font-size: 1.5rem;
+}
